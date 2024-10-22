@@ -25,10 +25,12 @@ By offering a seamless and interactive reading experience, this system fosters i
 
 # Research Paper
 <br>
-[Research Paper](https://ijsrcseit.com/paper/CSEIT2390381.pdf)<br> 
+ 
 "Enhancing Book Recommendations in Android Applications Using Autoencoders and Hybrid Filtering" <br>
 
-The paper explains how autoencoders, a type of neural network, can be combined with collaborative filtering to generate personalized recommendations. It also explores hybrid filtering algorithms that enhance accuracy by integrating multiple recommendation models.
+The paper explains how autoencoders, a type of neural network, can be combined with collaborative filtering to generate personalized recommendations. It also explores hybrid filtering algorithms that enhance accuracy by integrating multiple recommendation models.<br>
+https://ijsrcseit.com/paper/CSEIT2390381.pdf
+
 <br>
 # Paper Abstract
 The paper delves into advanced recommendation techniques within Android applications. It covers how collaborative filtering analyzes user interactions and how hybrid filtering combines different recommendation models to improve accuracy. In addition to personalized recommendations, the system provides genre-based suggestions, a wishlist feature, and a forum for user discussions, highlighting the innovative application of machine learning in the book industry.
