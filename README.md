@@ -22,9 +22,10 @@ By offering a seamless and interactive reading experience, this system fosters i
 4. Admin Portal: Allows for efficient management and moderation of uploaded books by administrators.
 5. Discussion Forum: Enables users to discuss specific books and chapters, enhancing the community aspect of the platform.
 <br>
-# Research Paper
-This project is built on the principles discussed in the published paper:<br>
 
+# Research Paper
+<br>
+[Research Paper](https://ijsrcseit.com/paper/CSEIT2390381.pdf)<br> 
 "Enhancing Book Recommendations in Android Applications Using Autoencoders and Hybrid Filtering" <br>
 
 The paper explains how autoencoders, a type of neural network, can be combined with collaborative filtering to generate personalized recommendations. It also explores hybrid filtering algorithms that enhance accuracy by integrating multiple recommendation models.
