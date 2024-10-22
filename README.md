@@ -54,9 +54,80 @@ Furthermore, the system incorporates neural networks and deep learning technique
 2. Frameworks: TensorFlow, Keras (for autoencoders and neural networks)
 3. Algorithms: Collaborative Filtering, Hybrid Filtering
 4. Platform: Android (for mobile app integration)
-<br>
+5. 
+
 
 # Prerequisites
 Python 3.x <br>
 Libraries: TensorFlow, Keras, Pandas, NumPy  <br>
+
+
+# References 
+[1]. Taushif Anwar; V. Uma; Shahjad 2020 International
+Conference on Data Analytics for Business and
+Industry: Way Towards Sustainable Economy
+(ICDABI) Year: 2020 Conference Paper Publisher:
+IEEE.
+[2]. Hands-On Machine Learning with Scikit-Learn,
+Keras, and TensorFlow: Concepts, Tools, and
+Techniques to Build Intelligent Systems 2nd Edition
+[3]. Artificial Intelligence with Python, Prateek Joshi,
+Packt Publication, ISBN:9781786464392.
+[4]. Adam Bretz& Colin J Ihrig, Full Stack Javascript
+Development with MEAN, SPD, First Edition,
+ISBN:978-0992461256.
+[5]. JavaScript: The Definitive Guide - Master The
+World's Most-Used Programming Language, Seventh
+Edition.
+[6]. Diana Ferreira, Sofia Silva, Antonio Abelha, Jose
+Machado ,”Recommendation System using
+Autoencoders” ,Appl. Sci. 2020, 10(16)5510.
+[7]. Esmael Ahmed and Adane Letta ,Agostino Forestiero
+, “Book Recommendation System using Collaborative
+Filtering Algorithm”, Research Article ,Open Access
+Volume 2023 Articlle ID 1514801
+https://doi.org/10.1155/2023/1514801
+[8]. Amelisa Putri; Z.K. Abdurahman Baizal; Donni
+Richasdy “Book Recommendation System using
+Convolutional Neural Network”, 02 March 2023,
+Conference Paper
+[9]. Reaza Rahutomo; Anzaludin Samsings Perbangsa;
+Haryono Soeparno;Bens Paradamean “Embedding
+Model Design for Producing Book Recommendation”
+, 19 September 2019
+[10]. Maram Almaghrabi; Girija Chetty, “A Deep Learning
+Based Collaborative Neural Network Framework for
+Recommender System” , 17 January 2019 ,
+Conference paper
+[11]. A Anoop; N Ayush Ubale,” Cloud based Collaborative
+Filtering Algorithm for Library Book
+Recommendation System”, Conference Paper, 6th
+October 2020
+[12]. Anand Shanker Tewari; Kumari Priyanka , “Book
+Recommendation System based on Collaborative
+Filtering and Association Rule Mining for college
+students”, Conference Paper
+[13]. Mohamad Tusher Ahamed; Shyla Afroge, “A
+Recommender System Based on Deep Neural
+Network and Matrix Factorization for Collaborative
+Filtering”, Conference Paper, 04th April 2019
+[14]. Wenyu Li; Dagiang Chen; Xiaoyu Duan; Changchang
+Huang; Yayun Lu; Xuemei Hu,” The Design of
+Disciplinary Book Recommendation System Based on
+Android: A view of Extra-Circular Activities”
+,Conference Paper , 22 August 2019
+[15]. Keita Tsuji; Fuyuki Yoshikane; Sho Sato; Hiroshi
+Itsumura, “Book Recommendation System using
+Machine Learning Methods Based on Library Loan
+Records and Bibliographic Information”, Conference
+Paper, 01 December 2014
+[16]. Ji Qi; Shi Liu ; Yanna Song; Xiang Liu, Research
+on”Personalized Book Recommendation Model for
+New Readers”, Conference Paper, 17 January 2019
+<br>
+
+
+
+
+
 
