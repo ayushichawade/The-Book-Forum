@@ -12,10 +12,10 @@ The digital era has transformed how we discover and engage with books. This proj
 6. User forum for book discussions
 <br>
 By offering a seamless and interactive reading experience, this system fosters increased user satisfaction and platform engagement.
-<be>
+<br>
 
 # Features
-<br>
+
 1. Personalized Book Recommendations: The system uses autoencoders and collaborative filtering to generate personalized reading suggestions.
 2. Hybrid Filtering: A combination of collaborative and content-based filtering techniques provides more accurate and diverse recommendations.
 3. User Wishlist and Book Uploads: Users can create personal wishlists and upload books, adding a dynamic social component to the platform.
